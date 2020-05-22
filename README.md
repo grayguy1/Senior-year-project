@@ -5,7 +5,6 @@ Download the application APK file Senior-year-project/app/release/app-release.ap
 
 INSTALLATION USING ANDRIOD STUDIO:-
 - Need to download and install android studio
-- https://developer.android.com/studio/install
 - Instructions on in the link provided
 - With Andriod studio running open the downloaded file of Easy park
 - Get a google-services.json file from firebase and add to app folder.
