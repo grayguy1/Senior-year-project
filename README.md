@@ -17,3 +17,5 @@ INSTALLATION USING ANDRIOD STUDIO:-
 - Then go back to Andriod studio and hit Run
 - You should see your device connected
 - Select your device and install and run the app
+
+Please read the project SRS for more details.
