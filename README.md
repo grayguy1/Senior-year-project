@@ -6,7 +6,7 @@ INSTALLATION USING APK:-
 - Before using the application make sure to give the application permission to use the camera.
 - The procedure for enabling camera permission can be looked up on the internet as it varies from phone to phone. The most common way is to go to settings, then apps, find Easy Park in the list and open it. Scroll to find permissions and check camera in the permissions section.
 
-INSTALLATION USING ANDRIOD STUDIO:-
+INSTALLATION USING ANDROID STUDIO:-
 - Need to download and install android studio
 - Instructions on in the link provided
 - With Andriod studio running open the downloaded file of Easy park
